@@ -1,0 +1,7 @@
+Python w c++:
+
+
+[proszę spojrzeć na rzeczy napisane w tych rubrykach z kodem na szaro]
+
+
+https://docs.python.org/3/extending/embedding.html#beyond-very-high-level-embedding-an-overview
